@@ -1,0 +1,21 @@
+.header{float: right; margin-right: 20px; margin-top: 10px;}
+.header1{float: right; margin-right: 20px; margin-top: 10px; }
+.header2{float: right; margin-right: 20px; margin-top: 6px; }
+
+.header-photo{ float: right; margin-right: 20px; background-image: url(PATİKA\css-html-ödev\ironman.jpg); margin-top: 10px; border-radius: 10px 10px; padding-left: 10px; width: 20px; height: 30px;}
+.header-google{text-align: center; margin-top: 150px; margin-left: 520px; height: 100px; width: 100px;}
+.header-ara{ background-color: rgb(252, 250, 250); border: 1px solid gray; border-radius: 40px; box-shadow: 1px 1px rgb(88, 87, 87);  margin-left: 400px; height: 40px; width: 500px;}
+.header-ara-ic{height: 15px; margin-top: 10px; margin-left: 50px;}
+.voice{float: right; margin-top: 5px; margin-right: 9px; }
+.ara{float: left; margin-top: 7px; margin-left: 9px; }
+.buton-left{float: left; background-color: rgb(192, 190, 190); border-radius: 4px; color:  black; text-align: center; width:120px; 
+                height: 25px; padding-top: 10px; 
+                padding-left: 1px; margin-top: 20px; margin-left:520px;font-size: 15px;}
+.buton-right{float: left; background-color: rgb(192, 190, 190); border-radius: 4px; color:  black; text-align: center; width:120px; 
+    height: 25px; padding-top: 10px; 
+    padding-left: 1px; margin-top: -27px; margin-left:140px;font-size: 15px;}
+
+
+.flooter{background-color:rgb(240, 238, 238) ; width: 100%; height: 50px; margin-top: 280px; }
+.flooter-leftt{text-align: left; margin-left: 40px;  color: rgb(61, 59, 59); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.flooter-right{text-align: right; margin-right: 40px;  color: rgb(63, 61, 61); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
